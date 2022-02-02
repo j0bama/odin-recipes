@@ -1,0 +1,23 @@
+h1 {
+    font-family:'Courier New', Courier, monospace, sans-serif;
+    color:black;
+    font-size: 64px;
+    text-align: center;
+}
+
+li {
+    font-family:'Courier New', Courier, monospace, sans-serif;
+    color:black;
+    font-size: 24x;
+}
+
+p {
+    font-family:'Courier New', Courier, monospace, sans-serif;
+    color:black;
+    font-size: 14x;
+}
+img {
+    width: 300px;
+    height: auto;
+    
+}
